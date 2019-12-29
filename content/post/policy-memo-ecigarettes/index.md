@@ -35,13 +35,13 @@ projects: []
 **From:** Andy Green, Director of the Center for Tobacco Products    
 **Date:** October 1, 2019   
 **Subject:** Recommendation to Tighten Regulations on E-cigarettes, Focused on Teen Smoking Epidemic
-     
-     
+<br/>     
+<br/>     
 #### Recommendation:   
-    
+<br/>    
 The Administration should move aggressively to combat the growing epidemic of teen smoking.  I recommend that the FDA institute a ban on flavored E-cigarettes, further regulate the advertising and marketing activities of E-cigarette companies, and escalate enforcement measures on underage sales of E-cigarettes. Additionally, the Administration should voice support for ongoing legislative efforts to raise the legal age of purchasing tobacco products from 18 to 21 years old.  Undertaking these measures would have a major impact on combating the epidemic of teen smoking, while not infringing on the liberty of adults,  or negating the potential public health benefits of existing smokers switching to E-cigarettes.
-     
-    
+<br/>     
+<br/>    
 #### Background:   
     
 Today you will be meeting with strategists from the Administration to discuss your stance on tightening regulations for E-cigarettes. This issue has come to the attention of key figures within the Administration on account of a few factors. First, a series of concerning statistics showing a dramatic increase in teen smoking have recently come to light. Recent studies have found a 78% year-over-year increase in E-cigarette use amongst teens, with over 3.6 million middle and high school students reporting E-cigarette use within the past 30 days.[^1]  This is highly concerning, both because we know that there is a high likelihood of teen E-cigarette use leading to the adoption of conventional cigarettes later in life, and because of the evidence showing that nicotine can be highly harmful to adolescent brain development.[^2]  The second major factor that has brought this issue to the attention of key administration officials has been the emergence of reports linking vaping to almost 500 respiratory illnesses and possibly six deaths.[^3]  This development has caught the attention of President Trump himself, with the First Lady and the President reportedly taking a personal interest on account of their teenage son, Barron.[^4]   
