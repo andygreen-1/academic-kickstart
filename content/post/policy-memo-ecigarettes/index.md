@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Policy Memo Ecigarettes"
+title: "Policy Memo: Tightening Regulations on E-cigarettes"
 subtitle: ""
 summary: ""
 authors: []
@@ -27,3 +27,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+To: Norman Sharpless, Acting Commissioner of the Food and Drug Administration
+From: Andy Green, Director of the Center for Tobacco Products 
+Date: October 1, 2019
+Subject: Recommendation to Tighten Regulations on E-cigarettes, Focused on Teen Smoking Epidemic
+
+Recommendation:
+The Administration should move aggressively to combat the growing epidemic of teen smoking.  I recommend that the FDA institute a ban on flavored E-cigarettes, further regulate the advertising and marketing activities of E-cigarette companies, and escalate enforcement measures on underage sales of E-cigarettes. Additionally, the Administration should voice support for ongoing legislative efforts to raise the legal age of purchasing tobacco products from 18 to 21 years old.  Undertaking these measures would have a major impact on combating the epidemic of teen smoking, while not infringing on the liberty of adults,  or negating the potential public health benefits of existing smokers switching to E-cigarettes. 
