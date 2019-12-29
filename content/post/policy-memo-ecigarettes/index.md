@@ -42,7 +42,6 @@ projects: []
    
 The Administration should move aggressively to combat the growing epidemic of teen smoking.  I recommend that the FDA institute a ban on flavored E-cigarettes, further regulate the advertising and marketing activities of E-cigarette companies, and escalate enforcement measures on underage sales of E-cigarettes. Additionally, the Administration should voice support for ongoing legislative efforts to raise the legal age of purchasing tobacco products from 18 to 21 years old.  Undertaking these measures would have a major impact on combating the epidemic of teen smoking, while not infringing on the liberty of adults,  or negating the potential public health benefits of existing smokers switching to E-cigarettes.
 
-<br/>
    
 #### Background:
    
@@ -50,7 +49,6 @@ Today you will be meeting with strategists from the Administration to discuss yo
     
 In response to this emerging health crisis, a number of states have moved to ban or restrict the sale of E-cigarettes.[^5]  The FDA is already facing calls from lawmakers and other prominent figures to take more aggressive action, and the pressure is only likely to grow as additional statistics and reporting on health concerns come to light. It is imperative that the Administration move quickly to address this issue.
 
-<br/>
      
 #### Key Arguments For Recommended Actions:   
      
@@ -74,7 +72,6 @@ In response to this emerging health crisis, a number of states have moved to ban
 - The Administration’s focus should be on combating the epidemic of teen smoking, and the four strategies above will accomplish that goal. Banning E-cigarettes outright is an unnecessary step that would be a major infringement on the liberty of adults who choose to smoke E-cigarettes. 
 - While further research is still required, researchers believe there is a high likelihood that E-cigarettes are less harmful to your health than traditional cigarettes;[^12]  banning them would negate the possibility of realizing massive public health benefits from existing smokers switching to E-cigarettes. 
 
-<br/>
    
 #### Conclusion:   
     
