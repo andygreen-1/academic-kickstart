@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master of Science in Data Science for Public Policy (MS-DSPP) '21
+role: MS in Data Science for Public Policy (MS-DSPP) Candidate '21
 
 # Organizations/Affiliations
 organizations:
