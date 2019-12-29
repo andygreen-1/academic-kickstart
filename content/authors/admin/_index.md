@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MS in Data Science for Public Policy (MS-DSPP) Candidate '21
+role: Master of Science in Data Science for Public Policy Candidate '21
 
 # Organizations/Affiliations
 organizations:
@@ -28,15 +28,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master of Science in Data Science for Public Policy (MS-DSPP)
+    institution: Georgetown University
+    year: 2021
+  - course: Bachelor of Business Administration (BBA)
+    institution: University of Michigan
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,21 +42,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: "mailto:akg83@georgetown.edu"  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/agreen492/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/andygreen-1
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Andy Green is an experienced leader with a strong track record of leveraging data to drive strategic decision-making, leading cross-functional teams, and managing and developing talent. He is currently pursuing a Master's degree in Data Science for Public Policy (MS-DSPP) at the McCourt School of Public Policy at Georgetown University. Prior to that, he spent five years in the retail and grocery industry. Most recently, he helped lead the international launch of Lidl's US operations, as a leader on the Promotions team. He studied the grocery market in depth, crafted a differentiated promotional strategy from scratch, established his team's cross-functional role within the organization, and led the execution of weekly promotional activity through the initial launch and first two years of operations. 
