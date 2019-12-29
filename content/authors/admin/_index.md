@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Andy Green
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master of Science in Data Science for Public Policy (MS-DSPP) '21
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Georgetown University
+  url: "https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- The link between education, skills development, and workforce demands
+- Poverty and the social safety net
+- Consumer protection
+- American politics
 
 education:
   courses:
