@@ -3,7 +3,7 @@
 
 title: "Policy Memo: Reinstating Net Neutrality Regulations"
 subtitle: ""
-summary: "Policy memo written for course PPOL 510: Public Policy Process. The memo includes recommendations to the Trump administration to reinstate net neutrality regulations."
+summary: "Policy memo written for course PPOL 510: Public Policy Process. The memo includes recommendations to the Trump administration regarding reinstating net neutrality regulations."
 authors: []
 tags: []
 categories: []

@@ -3,7 +3,7 @@
 
 title: "Policy Memo: Tightening Regulations on E-cigarettes"
 subtitle: ""
-summary: "Policy memo written for course PPOL 510: Public Policy Process. The memo includes recommendations to the Trump administration to tighten regulations on E-cigarettes, with a focus on combating the teen smoking epidemic."
+summary: "Policy memo written for course PPOL 510: Public Policy Process. The memo includes recommendations to the Trump administration regarding tightening regulations on E-cigarettes, with a focus on combating the teen smoking epidemic."
 authors: []
 tags: []
 categories: []
