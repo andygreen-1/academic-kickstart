@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Relationship Between Party Control of State Government and Key Well-Being Metrics"
-summary: "Interactive dashboard exploring the relationship between party control of state government and a vareity of well-being metrics at the state level. This is part 1 of a multi-part series of visualizations and analyses exploring this topic."
+summary: "Interactive dashboard exploring the relationship between party control of state government and a variety of well-being metrics at the state level. This is part 1 of a multi-part series of visualizations and analyses exploring this topic."
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+This visualization is an interactive dashboard exploring the relationship between party control of state government and a variety of well-being metrics at the state level. This is part 1 of a multi-part series of visualizations and analyses exploring this topic.
+
+The dashboard was published by the Georgetown Public Policy Review (GPPR) in January 2020. The link to that publication can be found [here](http://gppreview.com/2020/01/09/relationships-party-control-state-government-key-well-metrics/).
+
+The data and code used in this analysis can be found [here](https://github.com/andygreen-1/PartyControlStateGov).
+
+
