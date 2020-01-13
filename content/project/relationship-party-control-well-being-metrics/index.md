@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -41,8 +41,10 @@ slides: ""
 ---
 The following is an interactive dashboard exploring the relationship between party control of state government and a variety of well-being metrics at the state level. This is part 1 of a multi-part series of visualizations and analyses exploring this topic.
 
-The dashboard was published by the Georgetown Public Policy Review (GPPR) in January 2020. The link to that publication can be found [here](http://gppreview.com/2020/01/09/relationships-party-control-state-government-key-well-metrics/){:target="_blank"}.
+The dashboard was published by the Georgetown Public Policy Review (GPPR) in January 2020. The link to that publication can be found [here](http://gppreview.com/2020/01/09/relationships-party-control-state-government-key-well-metrics/).
 
-The data and code used in this analysis can be found [here](https://github.com/andygreen-1/PartyControlStateGov){:target="_blank"}.
+The data and code used in this analysis can be found [here](https://github.com/andygreen-1/PartyControlStateGov).
+
+[iframe src="https://public.tableau.com/views/PartyControlStateGov/Dashboard2?:showVizHome=no&:embed=y&:display_count=n&:origin=viz_share_link" width="1000" height="827" frameborder="0"]
 
 
