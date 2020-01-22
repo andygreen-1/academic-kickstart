@@ -23,7 +23,7 @@ bio:
 interests:
 - The link between education and labor market outcomes
 - Poverty and the social safety net
-- Consumer protection
+- Consumer financial protection
 - American politics
 
 education:
