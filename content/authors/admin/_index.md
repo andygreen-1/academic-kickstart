@@ -22,8 +22,8 @@ bio:
 
 interests:
 - The link between education and labor market outcomes
-- Poverty and the social safety net
 - Consumer financial protection
+- Poverty and the social safety net
 - American politics
 
 education:
@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-Andy Green is a first-year graduate student in the Data Science for Public Policy program (MS-DSPP) at Georgetown University. Since arriving at Georgetown, he has worked as a Research Assistant for the Massive Data Institute and the Center for Retirement Initiatives, in addition to serving as a Data Viz Editor for the Georgetown Public Policy Review. 
+Andy Green is a first-year graduate student in the Data Science for Public Policy program (MS-DSPP) at Georgetown University. Since arriving at Georgetown, he has worked as a Graduate Research Assistant for the Massive Data Institute and the Center for Retirement Initiatives, in addition to serving as a Data Viz Editor for the Georgetown Public Policy Review. 
 
 Prior to starting graduate school, he spent five years in the retail and grocery industry. Most recently, he helped lead the international launch of Lidl's US operations, as a leader on the Promotions team. In that role, he analyzed the grocery market in depth, crafted a differentiated promotional strategy from scratch, established his team's cross-functional processes, and led a team of direct reports through Lidl's initial launch and first two years of operations.  
