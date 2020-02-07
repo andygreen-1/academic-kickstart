@@ -3,11 +3,11 @@
 
 title: "Auto-Portability: What it is, Why it’s Needed, and How it Will Strengthen Retirement Security"
 authors: [Benjamin Roth, Andrew Green, and Angela Antonelli]
-date: 2020-02-07T18:27:20-05:00
+date: 2020-02-06T18:27:20-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-02-07T18:27:20-05:00
+publishDate: 2020-02-06T18:27:20-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
