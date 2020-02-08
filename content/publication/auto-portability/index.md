@@ -16,7 +16,7 @@ publishDate: 2020-02-08T10:03:41-05:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Center for Retirement Initiatives"
 publication_short: ""
 
 abstract: ""
@@ -31,10 +31,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+ - name: Link
+   url: https://cri.georgetown.edu/auto-portability-what-it-is-why-its-needed-and-how-it-will-strengthen-retirement-security/
+   icon_pack: fas
+   icon: link
 
 url_pdf:
 url_code:
