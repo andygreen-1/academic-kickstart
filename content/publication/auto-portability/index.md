@@ -13,7 +13,7 @@ publishDate: 2020-02-07T18:27:20-05:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Center for Retirement Initiatives"
@@ -31,7 +31,7 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
+- name: Link
    url: https://cri.georgetown.edu/auto-portability-what-it-is-why-its-needed-and-how-it-will-strengthen-retirement-security/
    icon_pack: far
    icon: link
