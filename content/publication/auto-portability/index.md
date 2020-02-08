@@ -19,7 +19,9 @@ publication_types: ["0"]
 publication: "Center for Retirement Initiatives"
 publication_short: ""
 
-abstract: ""
+abstract: "This post explores the concept of auto-portability, the idea that your retirement savings should automatically follow you when changing jobs. We discuss the reasons why it's necessary and how widespread adoption could help to significantly strengthen retirement security in the United States.
+
+The piece was published by the Center for Retirement Initiatives in February 2020. The link to that publication can be found [here](https://cri.georgetown.edu/auto-portability-what-it-is-why-its-needed-and-how-it-will-strengthen-retirement-security/)."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -67,6 +69,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-This post explores the concept of auto-portability, the idea that your retirement savings should automatically follow you when changing jobs. We discuss the reasons why it's necessary and how widespread adoption could help to significantly strengthen retirement security in the United States.
-
-The piece was published by the Center for Retirement Initiatives in February 2020. The link to that publication can be found [here](https://cri.georgetown.edu/auto-portability-what-it-is-why-its-needed-and-how-it-will-strengthen-retirement-security/).
