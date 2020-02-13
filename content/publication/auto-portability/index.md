@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Auto-Portability: What it is, Why it’s Needed, and How it Will Strengthen Retirement Security"
-authors: [Benjamin Roth, Andrew Green, and Angela Antonelli]
+authors: [Benjamin Roth, Andy Green, and Angela Antonelli]
 date: 2020-02-08T10:03:41-05:00
 doi: ""
 
