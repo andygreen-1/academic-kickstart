@@ -41,7 +41,7 @@ slides: ""
 ---
 The following is an interactive dashboard exploring the relationship between party control of state government and a variety of well-being metrics at the state level. This is part 1 of a multi-part series of visualizations and analyses exploring this topic.
 
-The dashboard was published by the Georgetown Public Policy Review in January 2020. The link to that publication can be found [here](http://gppreview.com/2020/01/09/relationships-party-control-state-government-key-well-metrics/).
+The dashboard, along with a short accompanying piece, was published by the Georgetown Public Policy Review in January 2020. The link to that publication can be found [here](http://gppreview.com/2020/01/09/relationships-party-control-state-government-key-well-metrics/).
 
 The data and code used in this analysis can be found [here](https://github.com/andygreen-1/PartyControlStateGov).
 ***

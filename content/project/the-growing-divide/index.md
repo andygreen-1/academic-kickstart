@@ -41,7 +41,7 @@ slides: ""
 ---
 The following is an interactive dashboard exploring how the relationship between party control of state government and various well-being metrics has evolved over the last 20 years. This is part 2 of a multi-part series of visualizations and analyses exploring this topic.
 
-The dashboard was published by the Georgetown Public Policy Review in February 2020. The link to that publication can be found [here](http://gppreview.com/2020/02/21/growing-divide-red-states-vs-blue-states/).
+The dashboard, along with a short accompanying piece, was published by the Georgetown Public Policy Review in February 2020. The link to that publication can be found [here](http://gppreview.com/2020/02/21/growing-divide-red-states-vs-blue-states/).
 
 The data and code used in this analysis can be found [here](https://github.com/andygreen-1/PartyControlStateGov).
 ***
