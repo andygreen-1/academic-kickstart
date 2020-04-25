@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-The following is a series of interactive dashboard exploring which states are experiencing the most severe economic fallout from COVID-19, and how that tracks with the states hit hardest by the virus itself.
+The following is a series of interactive dashboards exploring which states are experiencing the most severe economic fallout from COVID-19, and how that tracks with the states hit hardest by the virus itself.
 
 These dashboards, along with a short accompanying piece, were published by the Georgetown Public Policy Review in April 2020. The link to that publication can be found [here](http://gppreview.com/2020/04/23/covid-19-cases-unemployment-claims-state/).
 
