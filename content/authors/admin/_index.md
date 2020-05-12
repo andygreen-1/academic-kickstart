@@ -45,7 +45,7 @@ social:
   link: "mailto:akg83@georgetown.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/agreen492/
+  link: https://www.linkedin.com/in/andykgreen/
 - icon: github
   icon_pack: fab
   link: https://github.com/andygreen-1
