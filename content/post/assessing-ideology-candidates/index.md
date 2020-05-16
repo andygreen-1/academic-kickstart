@@ -3,7 +3,7 @@
 
 title: "Assessing the Ideology of Democratic Congressional Candidates"
 subtitle: ""
-summary: ""
+summary: "This project aims to assess the ideology of Democratic congressional candidates by analyzing the language used on the candidates’ campaign websites."
 authors: []
 tags: []
 categories: []
@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+This is a research project that I worked on during my time as a Graduate Research Assistant at the Massive Data Institute. While the project is still a work in progress, a summary of the methodology and initial findings can be found at the pdf link below.
