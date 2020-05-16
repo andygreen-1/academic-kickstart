@@ -30,6 +30,7 @@ projects: []
 *This is a research project that I worked on during my time as a Graduate Research Assistant at the Massive Data Institute. While the project is still a work in progress, a summary of the methodology and initial findings can be found at the pdf link above, and the abstract of the project summary is included below.*
 ***
 <br/>
-#### Abstract
+
+#### Abstract:
 
 This project aims to assess the ideology of Democratic congressional candidates by analyzing the language used on the candidates’ campaign websites. We start out by using web scraping techniques to collect text data from the campaign websites of both non-incumbent candidates and incumbent House members. After collecting the text data, we utilize cosine similarity and word collocation analysis to score each candidate or member on an ideological scale. While the project is still a work in progress and final results are not yet available, the preliminary results are promising. If the methodology can be further refined and validated, we hope that this type of analysis can serve as a supplemental measure to existing tools for assessing political ideology.
