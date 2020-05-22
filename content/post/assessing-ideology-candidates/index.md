@@ -35,4 +35,4 @@ projects: []
 
 This project aims to assess the ideology of Democratic congressional candidates by analyzing the language found on the candidates’ campaign websites. We start by using web scraping techniques to collect text data from the campaign websites of both non-incumbent candidates and incumbent House members. After collecting the text data, we utilize cosine similarity and word collocation analysis to score each candidate or member on an ideological scale. While the project is still a work in progress and final results are not yet available, the preliminary results are promising. If the methodology can be further refined and validated, we hope that this type of analysis can serve as a supplemental measure to existing tools for assessing political ideology.
 
-![ideology_viz](/img/ideology_viz.png)
+[![ideology_viz](/img/ideology_viz.png)](https://andykgreen.com/img/ideology_viz.png)
