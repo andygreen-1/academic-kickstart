@@ -51,6 +51,6 @@ The data and code used in this analysis can be found [here](https://github.com/a
 
 <br/>
 
-The following table provides a numerical summary of the trends displayed in the dashboard:
+Additionally, the following table provides a numerical summary of the trends displayed in the dashboard:
 
 [![growing_divide_table1](/img/growing_divide_table1.png)](https://andykgreen.com/img/growing_divide_table1.png)
