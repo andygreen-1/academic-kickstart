@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Creating an Extension of County Business Patterns"
+title: "Creating an Extension of the County Business Patterns (CBP) Data Series"
 subtitle: ""
-summary: "This project involved creating a proof-of-concept for an extension of the Census Bureau's County Business Patterns data series, by adding revenue as an additional metric to the existing product."
+summary: "This project involved creating a proof-of-concept for an extension of the Census Bureau's County Business Patterns (CBP) data series, by adding revenue as an additional metric to the existing product."
 authors: []
 tags: []
 categories: []
