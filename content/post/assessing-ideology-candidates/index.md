@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Assessing the Ideology of Democratic Congressional Candidates"
+title: "Text Analysis of 2020 Congressional Campaign Websites"
 subtitle: ""
-summary: "This project aims to assess the ideology of Democratic congressional candidates by analyzing the language used on the candidates’ campaign websites."
+summary: "This project involved analyzing the language found on the campaign websites of 2020 congressional election candidates."
 authors: []
 tags: []
 categories: []
@@ -33,6 +33,6 @@ projects: []
 
 #### Abstract:
 
-This project aims to assess the ideology of Democratic congressional candidates by analyzing the language found on each candidate's campaign website. We start by using web scraping techniques to collect text data from the campaign websites of both non-incumbent candidates and incumbent House members. After collecting the text data, we utilize cosine similarity and word collocation analysis to score each candidate or member on an ideological scale. While the project is still a work in progress and final results are not yet available, the preliminary results are promising. If the methodology can be further refined and validated, we hope that this type of analysis can serve as a supplemental measure to existing tools for assessing political ideology.
+This project involved analyzing the language found on the campaign websites of 2020 congressional election candidates. We start by using web scraping techniques to collect text data from the campaign websites of both non-incumbent candidates and incumbent members of Congress. After collecting the text data, we leverage various natural language processing techniques to prepare the data for analysis. Finally, we utilize cosine similarity, dictionary classification methods, and other analytical techniques to score each candidate or member on an ideological scale. While the project is still a work in progress and final results are not yet available, the preliminary results are promising. If the methodology can be further refined and validated, we hope that this type of analysis can serve as a supplemental measure to existing tools for assessing political ideology.
 
 [![ideology_viz](/img/ideology_viz.png)](https://andykgreen.com/img/ideology_viz.png)
