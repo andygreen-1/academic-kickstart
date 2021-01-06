@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Role of Race and Ethnicity in Mortgage Applications in Washington, D.C."
-summary: "A series of static and dynamic visualizations exploring exploring the role of race and ethnicity in mortgage applications in Washington, D.C."
+summary: "A series of static and dynamic visualizations exploring the role of race and ethnicity in mortgage applications in Washington, D.C."
 authors: []
 tags: []
 categories: []
@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -47,11 +47,9 @@ In addition to viewing the visualizations below, you can find a short article pr
 
 [![race_ethnicity_applications](/img/race_ethnicity_applications.png)](https://andykgreen.com/img/race_ethnicity_applications.png)
 
-<br/>
 
 [![race_ethnicity_loan_amount](/img/race_ethnicity_loan_amount.png)](https://andykgreen.com/img/race_ethnicity_loan_amount.png)
 
-<br/>
 
 [![race_ethnicity_denials](/img/race_ethnicity_denials.png)](https://andykgreen.com/img/race_ethnicity_denials.png)
 
