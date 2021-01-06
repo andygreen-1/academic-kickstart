@@ -45,10 +45,10 @@ In addition to viewing the visualizations below, you can find a short article pr
 ***
 <br/>
 
+*You can click on any of the three static visualizations below to see a larger version of the image.*
+
+
 [![race_ethnicity_applications](/img/race_ethnicity_applications.png)](https://andykgreen.com/img/race_ethnicity_applications.png)
-
-
-<img src="https://andykgreen.com/img/race_ethnicity_applications.png" width="1200" height="800" />
 
 
 [![race_ethnicity_loan_amount](/img/race_ethnicity_loan_amount.png)](https://andykgreen.com/img/race_ethnicity_loan_amount.png)
