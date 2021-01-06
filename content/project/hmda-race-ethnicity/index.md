@@ -48,7 +48,7 @@ In addition to viewing the visualizations below, you can find a short article pr
 [![race_ethnicity_applications](/img/race_ethnicity_applications.png)](https://andykgreen.com/img/race_ethnicity_applications.png)
 
 
-![](/img/race_ethnicity_applications.png = 100x20)
+![race_ethnicity_applications](/img/race_ethnicity_applications.png =100x20)
 
 
 [![race_ethnicity_loan_amount](/img/race_ethnicity_loan_amount.png)](https://andykgreen.com/img/race_ethnicity_loan_amount.png)
