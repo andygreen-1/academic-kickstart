@@ -51,7 +51,7 @@ In addition to viewing the visualizations below, you can find a short article pr
 ![race_ethnicity_applications](/img/race_ethnicity_applications.png)
 
 
-[![race_ethnicity_loan_amount](/img/race_ethnicity_loan_amount.png)](https://andykgreen.com/img/race_ethnicity_loan_amount.png)
+<img src="https://andykgreen.com/img/race_ethnicity_applications.png" width="200" height="200" />
 
 
 [![race_ethnicity_denials](/img/race_ethnicity_denials.png)](https://andykgreen.com/img/race_ethnicity_denials.png)
