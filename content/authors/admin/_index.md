@@ -24,6 +24,7 @@ interests:
 - Health policy
 - Consumer financial protection
 - Poverty and the social safety net
+- Labor markets
 - American politics
 
 education:
