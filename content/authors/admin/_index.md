@@ -21,8 +21,8 @@ organizations:
 bio: 
 
 interests:
+- Health policy
 - Consumer financial protection
-- Labor markets and workforce development
 - Poverty and the social safety net
 - American politics
 
