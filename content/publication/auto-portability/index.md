@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fas
 #   icon: link
 
-url_pdf: https://cri.georgetown.edu/auto-portability-what-it-is-why-its-needed-and-how-it-will-strengthen-retirement-security/
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
@@ -67,3 +67,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+This post explores the concept of auto-portability, the idea that your retirement savings should automatically follow you when changing jobs. We discuss the reasons why it's necessary and how widespread adoption could help to significantly strengthen retirement security in the United States.
+
+The piece was published by the Center for Retirement Initiatives in February 2020. The link to that publication can be found [here](https://cri.georgetown.edu/auto-portability-what-it-is-why-its-needed-and-how-it-will-strengthen-retirement-security/).
