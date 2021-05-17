@@ -30,11 +30,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
- links:
- - name: Link
-   url: https://cri.georgetown.edu/auto-portability-what-it-is-why-its-needed-and-how-it-will-strengthen-retirement-security/
-   icon_pack: fas
-   icon: link
+# links:
+# - name: Link
+#   url: https://cri.georgetown.edu/auto-portability-what-it-is-why-its-needed-and-how-it-will-strengthen-retirement-security/
+#   icon_pack: fas
+#   icon: link
 
 url_pdf:
 url_code:
