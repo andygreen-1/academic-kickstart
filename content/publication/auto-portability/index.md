@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fas
 #   icon: link
 
-url_pdf:
+url_pdf: https://cri.georgetown.edu/auto-portability-what-it-is-why-its-needed-and-how-it-will-strengthen-retirement-security/
 url_code:
 url_dataset:
 url_poster:
