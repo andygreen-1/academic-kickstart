@@ -23,7 +23,7 @@ bio:
 interests:
 - Health policy
 - Consumer financial protection
-- Labor markets
+- Workforce development
 - American politics
 
 education:
