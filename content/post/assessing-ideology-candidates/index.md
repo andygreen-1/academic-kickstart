@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Text Analysis of 2020 Congressional Campaign Websites"
+title: "Text Analysis of 2020 Congressional Election Candidates"
 subtitle: ""
-summary: "This project involved analyzing the language found on the campaign websites of 2020 congressional election candidates."
+summary: "This project involved analyzing the language found on the campaign websites and Twitter feeds of 2020 congressional election candidates."
 authors: []
 tags: []
 categories: []
@@ -27,12 +27,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-*This is a research project that I worked on during my time as a Graduate Research Assistant at the Massive Data Institute. While the project is still a work in progress, a summary of the methodology and initial findings can be found at the pdf link above. The abstract from that project summary and a graphic visualizing some of the preliminary results are included below.*
+*This is a research project that I worked on during my time as a Graduate Research Assistant at the Massive Data Institute. While the project is still a work in progress, a brief overview of the project can be found below.*
 ***
 <br/>
 
-#### Abstract:
+#### Project Overview:
 
-This project involved analyzing the language found on the campaign websites of 2020 congressional election candidates. We start by using web scraping techniques to collect text data from the campaign websites of both non-incumbent candidates and incumbent members of Congress. After collecting the text data, we leverage various natural language processing techniques to prepare the data for analysis. Finally, we utilize cosine similarity, dictionary classification methods, and other analytical techniques to score each candidate or member on an ideological scale. While the project is still a work in progress and final results are not yet available, the preliminary results are promising. If the methodology can be further refined and validated, we hope that this type of analysis can serve as a supplemental measure to existing tools for assessing political ideology.
-
-[![ideology_viz](/img/ideology_viz.png)](https://andykgreen.com/img/ideology_viz.png)
+In this project, we use text data found on the campaign websites and Twitter feeds of 2020 congressional election candidates to develop various measures of political ideology. We then use these measures to test the effect of ideology on electoral performance. We begin by using web scraping techniques to collect text data from the campaign websites of over 1,400 candidates, including both incumbent members of Congress and non-incumbent candidates. The website data is complemented by the content of candidates’ publicly available Twitter feeds, obtained through the Twitter API. After collecting the website and Twitter text data, we employ a variety of preprocessing methods to prepare the data for analysis. Next, we utilize techniques like cosine similarity, custom dictionary methods, and a wordfish model to score each candidate on an ideological scale. Finally, we use these ideological scores to assess the relationship between ideology and electoral performance. Preliminary results suggest that being more moderate, as opposed to being more liberal for Democrats or more conservative for Republicans, is associated with stronger electoral performance (as measured by vote share percentage). While the project is still a work in progress, potential contributions include: methodological insights into novel techniques for assessing political ideology, substantive insights into the effect of ideology on electoral performance, and the value of the data assets for future analysis by other researchers.
