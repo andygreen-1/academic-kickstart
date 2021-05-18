@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-*This is a research project that I worked on during my time as a Graduate Research Assistant at the Massive Data Institute. While the project is still a work in progress, a brief overview of the project can be found below.*
+*This is a project that I worked on during my time as a Graduate Research Assistant at the Massive Data Institute. While the project is still a work in progress, a brief description of the methodology and preliminary results can be found below.*
 ***
 <br/>
 
