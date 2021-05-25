@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: MS in Data Science for Public Policy Candidate '21
+role: Research Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Georgetown University
-  url: "https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/"
+- name: Urban Institute
+  url: "https://www.urban.org/author/andrew-green-0"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -66,6 +66,10 @@ user_groups:
 - Visitors
 ---
 
-Andy Green is a graduate student in the Data Science for Public Policy program (MS-DSPP) at Georgetown University. Since arriving at Georgetown, he has worked in data science and research roles at the Census Bureau, the Massive Data Institute, and the Center for Retirement Initiatives. Additionally, he writes, edits, and develops data visualizations for the Georgetown Public Policy Review, currently serving as a leader of the Data Viz editing team.
+Andy Green is a Research Analyst in the Health Policy Center at the Urban Institute. His work focuses primarily on leveraging microsimulation models to assess the effects of various health insurance reform proposals. 
 
-Prior to starting graduate school, Andy spent five years in the retail industry. Most recently, he helped lead the international launch of Lidl's US operations, as a manager on the Promotions team. In that role, he analyzed the grocery market in depth, crafted a differentiated promotional strategy from scratch, established his team's cross-functional processes, and led a team of direct reports through Lidl's initial launch and first two years of operations.  
+Prior to starting at the Urban Institute, Andy was a graduate student in the Data Science for Public Policy program (MS-DSPP) at Georgetown University. During his time at Georgetown, he held data science and research roles at the Census Bureau, the Massive Data Institute, and the Center for Retirement Initiatives, in addition to serving as a lead data visualization editor for the Georgetown Public Policy Review.
+
+Prior to starting graduate school, Andy spent five years in the retail industry. Most recently, he helped lead the international launch of Lidl's US operations, as a manager on the Promotions team. In that role, he helped develop the company's promotional strategy, established his team's cross-functional processes, and led a team of direct reports through Lidl's initial launch and first two years of operations.
+
+Andy completed his undergraduate studies at the University of Michigan, and he originally hails from Los Angeles, CA.
