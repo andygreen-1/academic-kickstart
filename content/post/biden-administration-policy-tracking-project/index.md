@@ -34,3 +34,11 @@ In addition to viewing the visualizations below, you can find a landing page for
 <br/>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Biden_Administration_Policy_Actions/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '2100' scrolling='no' ></iframe>
+
+<br/>
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BAPA_terms/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '900' scrolling='no' ></iframe>
+
+<br/>
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Biden_Administration_Policy_Actions/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '900' scrolling='no' ></iframe>
