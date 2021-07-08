@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Analyst
+role: Data Scientist & Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Urban Institute
-  url: "https://www.urban.org/author/andrew-green-0"
+- name: 
+  url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-Andy Green is a Research Analyst in the Health Policy Center at the Urban Institute. His work focuses primarily on leveraging microsimulation models to assess the effects of various health insurance reform proposals. 
+Andy Green is a data scientist, researcher, and policy professional. He currently works as a Research Analyst in the Health Policy Center at the Urban Institute. His work at Urban focuses primarily on leveraging microsimulation models to assess the effects of various health insurance reform proposals. 
 
 Prior to starting at the Urban Institute, Andy was a graduate student in the Data Science for Public Policy program (MS-DSPP) at Georgetown University. During his time at Georgetown, he held data science and research roles at the Census Bureau, the Massive Data Institute, and the Center for Retirement Initiatives, in addition to serving as a lead data visualization editor for the Georgetown Public Policy Review.
 
