@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-The Biden Administration Policy Tracking Project aims to record, summarize, and visualize policy actions taken by the Biden administration. Policy actions include, but are not limited to: making a statement in support of a given policy, taking administrative action, issuing executive orders, and acting upon legislation.
+The Biden Administration Policy Tracking Project is a nonpartisan effort to record, summarize, and visualize policy actions taken by the Biden administration. Policy actions include, but are not limited to: making a statement in support of a given policy, taking administrative action, issuing executive orders, and acting upon legislation.
 
 In addition to viewing the visualizations below, you can find a landing page for the project [here](https://andygreen-1.github.io/Biden_Administration_Policy_Actions/). The landing page contains the same three visualizations, as well as a discussion of the data collection process and some use cases for the dataset.
 ***
