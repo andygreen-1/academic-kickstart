@@ -76,4 +76,6 @@ In this brief, we update our [earlier projections](https://andykgreen.com/public
 - Compared with PHE expiration after the first quarter of 2022, federal government spending on Medicaid in 2022 and 2023 would be \$34.0 billion higher if the PHE were extended for one additional quarter and \$70.5 billion higher if the PHE were extended for two quarters. State government spending in 2022 and 2023 would be \$5.0 billion higher if the PHE were extended for one additional quarter and \$10.9 billion higher if the PHE were extended for two quarters.
 
 
-The report was published by the Urban Institute in March 2022. The link to that publication can be found [here](https://www.urban.org/research/publication/what-will-happen-medicaid-enrollees-health-coverage-after-public-health-emergency).
+The brief was published by the Urban Institute in March 2022. The link to that publication can be found [here](https://www.urban.org/research/publication/what-will-happen-medicaid-enrollees-health-coverage-after-public-health-emergency).
+
+The brief has received coverage from the [Washington Post](https://www.washingtonpost.com/health/2022/03/14/medicaid-loss-of-coverage/), the [LA Times](https://www.latimes.com/science/story/2022-03-14/why-you-may-miss-the-covid-public-health-emergency-when-its-over), and [HuffPost](https://www.huffpost.com/entry/affordable-care-act-obamacare-subsidies-medicaid-family-glitch_n_623a43cfe4b0c727d4849e3e), among other media outlets.
