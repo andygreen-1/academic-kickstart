@@ -66,8 +66,8 @@ user_groups:
 - Visitors
 ---
 
-Andy Green is a data scientist, researcher, and policy professional. He currently works as a research analyst in the Health Policy Center at the Urban Institute. His work focuses primarily on evaluating the coverage and cost effects of various health insurance reform proposals. 
+Andy Green is a data scientist and researcher. He currently works as a research analyst in the Health Policy Center at the Urban Institute, where he focuses on evaluating the coverage and cost effects of health insurance reform proposals.
 
 Prior to starting at Urban, Andy was a graduate student in the Data Science for Public Policy program (MS-DSPP) at Georgetown University. During his time at Georgetown, he held data science and research roles at the Census Bureau, the Massive Data Institute, and the Center for Retirement Initiatives, in addition to serving as a lead data visualization editor for the Georgetown Public Policy Review.
 
-Prior to graduate school, Andy spent five years in the retail industry. Most recently, he helped lead the international launch of Lidl's US operations, as a manager on the promotions team. In that role, he helped develop the company's promotional strategy, established his team's cross-functional processes, and led a team of direct reports through Lidl's initial launch and first two years of operations.
+Prior to graduate school, Andy spent five years in the retail industry. Most recently, he helped lead the international launch of Lidl's US operations, as a senior manager on the promotions team. In that role, he helped develop the company's promotional strategy, established his team's cross-functional processes, and led a team of direct reports through Lidl's initial launch and first two years of operations.
