@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.urban.org/sites/default/files/publication/104785/what-will-happen-to-unprecedented-high-medicaid-enrollment-after-the-public-health-emergency_0.pdf
 url_code:
 url_dataset:
 url_poster:
