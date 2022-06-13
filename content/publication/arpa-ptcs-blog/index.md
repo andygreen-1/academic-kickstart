@@ -67,6 +67,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-In this blog post, we highlight some of the key findings from our earlier brief on what will happen to health insurance coverage and costs if the American Rescue Plan Act's enhanced premium tax credits (PTCs) expire.
+In this blog post, we highlight some of the key findings from our [earlier brief](https://andykgreen.com/publication/arpa-ptcs/) on what will happen to health insurance coverage and costs if the American Rescue Plan Act's enhanced premium tax credits expire.
 
 The blog post was published by the Urban Institute in May 2022. The link to that publication can be found [here](https://www.urban.org/urban-wire/allowing-american-rescue-plan-premium-tax-credits-expire-would-reverse-recent-progress).
