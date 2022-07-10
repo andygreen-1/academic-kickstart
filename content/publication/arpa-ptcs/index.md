@@ -77,6 +77,4 @@ In this brief, we estimate health coverage and costs in 2023 both with and witho
 - Enhancing PTCs will increase the federal deficit by $305 billion over 10 years.
 
 
-The brief was published by the Urban Institute in April 2022. The link to that publication can be found [here](https://www.urban.org/research/publication/what-if-american-rescue-plan-act-premium-tax-credits-expire).
-
-The brief has received coverage from [Axios](https://www.axios.com/affordable-care-act-health-insurance-democrats-61487682-7fa2-4cb6-8f32-f7b667ca439d.html), [Fierce Healthcare](https://www.fiercehealthcare.com/payers/report-more-3m-could-lose-insurance-if-boosted-aca-subsidies-expire-after-year), and [Healthcare Innovation](https://www.hcinnovationgroup.com/policy-value-based-care/medicare-medicaid/news/21263678/consequences-of-american-rescue-plan-act-premium-tax-credits-expiring), among other media outlets.
+The [brief](https://www.urban.org/research/publication/what-if-american-rescue-plan-act-premium-tax-credits-expire) was published by the Urban Institute in April 2022. It has received coverage from [Axios](https://www.axios.com/affordable-care-act-health-insurance-democrats-61487682-7fa2-4cb6-8f32-f7b667ca439d.html), [Bloomberg](https://www.bloomberg.com/opinion/articles/2022-06-30/end-of-covid-era-medicaid-aca-subsidies-could-create-a-health-insurance-crisis), and [Business Insider](https://www.businessinsider.com/democrats-obamacare-manchin-midterm-elections-health-insurance-bills-2022-5), among other media outlets.
