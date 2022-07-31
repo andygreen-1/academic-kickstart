@@ -67,6 +67,14 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-In this blog post, we highlight some of the key findings from our [earlier brief](https://andykgreen.com/publication/arpa-ptcs/) on what will happen to health insurance coverage and costs if the American Rescue Plan Act's enhanced premium tax credits expire.
+In this blog post, we highlight some of the key findings from our [earlier report](https://andykgreen.com/publication/arpa-ptcs/) on what will happen to health insurance coverage and costs if the American Rescue Plan Act's enhanced premium tax credits expire.
 
-The blog post was published by the Urban Institute in May 2022. The link to that publication can be found [here](https://www.urban.org/urban-wire/allowing-american-rescue-plan-premium-tax-credits-expire-would-reverse-recent-progress).
+The [blog post](https://www.urban.org/urban-wire/allowing-american-rescue-plan-premium-tax-credits-expire-would-reverse-recent-progress) was published by the Urban Institute in May 2022.
+
+
+Related Publications:
+
+- Main ARPA PTCs Report: [What If the American Rescue Plan Act Premium Tax Credits Expire? Coverage and Cost Projections for 2023](https://www.urban.org/research/publication/what-if-american-rescue-plan-act-premium-tax-credits-expire)
+- Blog Post: [Allowing the American Rescue Plan Premium Tax Credits to Expire Would Reverse Recent Progress in Reducing the Rate of Uninsured Americans](https://www.urban.org/urban-wire/allowing-american-rescue-plan-premium-tax-credits-expire-would-reverse-recent-progress)
+- Women's Coverage Losses: [Women's Coverage Losses in 2023 If the American Rescue Plan Act's Premium Tax Credits Expire](https://www.urban.org/research/publication/womens-coverage-losses-2023-if-american-rescue-plan-acts-premium-tax-credits)
+- Effects in Massachusetts: [Expanded Coverage and Savings: Effects in Massachusetts of Extending the American Rescue Plan Act's Enhanced Marketplace Subsidies](https://www.urban.org/research/publication/expanded-coverage-and-savings-effects-massachusetts-extending-american-rescue)
