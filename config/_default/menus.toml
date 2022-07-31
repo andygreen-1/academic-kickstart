@@ -7,21 +7,26 @@
   name = "Home"
   url = "#about"
   weight = 10
+  
+[[main]]
+  name = "Featured"
+  url = "#featured"
+  weight = 20
 
 [[main]]
   name = "Data Viz"
   url = "#projects"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Projects"
   url = "#posts"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 40
+  weight = 50
 
 
 # Link to a PDF of your resume/CV from the menu.
@@ -29,4 +34,4 @@
 [[main]]
   name = "CV"
   url = "files/CV_AndyGreen.pdf"
-  weight = 50
+  weight = 60
