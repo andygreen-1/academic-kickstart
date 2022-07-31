@@ -73,8 +73,8 @@ About 850,000 additional adult women of reproductive age (19 to 44) will be unin
 ***
 
 You can find the full fact sheet [here](https://www.urban.org/research/publication/womens-coverage-losses-2023-if-american-rescue-plan-acts-premium-tax-credits).
-
-
+   
+   
 Related Publications:
 
 - Main ARPA PTCs Report: [What If the American Rescue Plan Act Premium Tax Credits Expire? Coverage and Cost Projections for 2023](https://www.urban.org/research/publication/what-if-american-rescue-plan-act-premium-tax-credits-expire)

@@ -78,8 +78,8 @@ In this report, we estimate health coverage and costs in 2023 both with and with
 
 
 The [report](https://www.urban.org/research/publication/what-if-american-rescue-plan-act-premium-tax-credits-expire) was published by the Urban Institute in April 2022. It has received coverage from [CNN](https://edition.cnn.com/2022/07/14/politics/joe-manchin-wont-support-climate-or-tax-provisions/index.html), [Axios](https://www.axios.com/affordable-care-act-health-insurance-democrats-61487682-7fa2-4cb6-8f32-f7b667ca439d.html), [Bloomberg](https://www.bloomberg.com/opinion/articles/2022-06-30/end-of-covid-era-medicaid-aca-subsidies-could-create-a-health-insurance-crisis), and [Business Insider](https://www.businessinsider.com/democrats-obamacare-manchin-midterm-elections-health-insurance-bills-2022-5), among other media outlets.
-
-
+   
+   
 Related Publications:
 
 - Main ARPA PTCs Report: [What If the American Rescue Plan Act Premium Tax Credits Expire? Coverage and Cost Projections for 2023](https://www.urban.org/research/publication/what-if-american-rescue-plan-act-premium-tax-credits-expire)
