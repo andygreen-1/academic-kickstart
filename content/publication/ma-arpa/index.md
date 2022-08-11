@@ -77,7 +77,7 @@ The [report](https://www.bluecrossmafoundation.org/publication/expanded-coverage
 
 <br/>
 
-Related Publications:
+ARPA-Related Publications:
 
 - Main Report: [What If the American Rescue Plan Act Premium Tax Credits Expire? Coverage and Cost Projections for 2023](https://www.urban.org/research/publication/what-if-american-rescue-plan-act-premium-tax-credits-expire)
 - Blog Post: [Allowing the American Rescue Plan Premium Tax Credits to Expire Would Reverse Recent Progress in Reducing the Rate of Uninsured Americans](https://www.urban.org/urban-wire/allowing-american-rescue-plan-premium-tax-credits-expire-would-reverse-recent-progress)
