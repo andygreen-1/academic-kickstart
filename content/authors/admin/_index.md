@@ -66,8 +66,10 @@ user_groups:
 - Visitors
 ---
 
-Andy Green is a data scientist and a researcher. He currently works as a research analyst in the Health Policy Center at the Urban Institute, where he focuses on using microsimulation modeling to evaluate the coverage and cost effects of health insurance reform proposals. Recent research topics have included projecting how Medicaid enrollment will evolve after the COVID-19 public health emergency ends; estimating the coverage and cost effects of enhanced Marketplace premium subsidies; evaluating a policy that would lower the Medicare eligibility age to 60; and developing machine learning models to predict churn in Medicaid and Marketplace eligibility.
+Andy Green is a data scientist and a researcher with a passion for using data to improve people's lives. He currently works as an Analytics Lead at BlueLabs, where he leads a team responsible for providing analytics support to government clients. 
 
-Prior to starting at Urban, Andy was a graduate student in the Data Science for Public Policy program (MS-DSPP) at Georgetown University. During his time at Georgetown, he held data science and research roles at the Census Bureau, the Massive Data Institute, and the Center for Retirement Initiatives, in addition to serving as a lead data visualization editor for the Georgetown Public Policy Review.
+Prior to joining BlueLabs, Andy was a quantitative health policy researcher at the Urban Institute. Some examples of his research include projecting how Medicaid enrollment will evolve after the COVID-19 public health emergency ends; developing machine learning models to predict churn in Medicaid and Marketplace eligibility; and estimating the coverage and cost effects of enhanced Marketplace premium subsidies.
+
+Andy has a master's degree in Data Science for Public Policy from Georgetown University and a bachelor's degree in Business Administration from the University of Michigan. During his time in graduate school, he held data science fellowships at the US Census Bureau and the Massive Data Institute, where he worked on a variety of machine learning and natural language processing projects. 
 
 Prior to graduate school, Andy spent five years in the retail industry. Most recently, he helped lead the international launch of Lidl's US operations, as a senior manager on the promotions team. In that role, he helped develop the company's promotional strategy, established his team's cross-functional processes, and led a team of direct reports through Lidl's initial launch and first two years of operations.
