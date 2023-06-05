@@ -22,8 +22,8 @@ bio:
 
 interests:
 - Health policy
+- Civic tech
 - Consumer financial markets
-- American politics
 - Natural language processing, machine learning, and other advanced analytic techniques
 
 education:
