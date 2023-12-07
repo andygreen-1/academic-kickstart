@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-Andy Green is a data scientist, a researcher, and a people manager with a passion for using data to make things better. He has over 8 years of experience in data-driven roles across government, think tanks, academia, and the private sector. He currently works as an Analytics Lead at BlueLabs, where he leads a team focused on delivering impactful digital outreach and a seamless website experience for Medicare beneficiaries.
+Andy Green is a data scientist, a researcher, and a people manager with a passion for using data to make things better. He has over 9 years of experience in data-driven roles across government, think tanks, academia, and the private sector. He currently works as an Analytics Lead at BlueLabs, where he leads a team focused on delivering impactful digital outreach and a seamless website experience for Medicare beneficiaries.
 
 Prior to joining BlueLabs, Andy was a quantitative health policy researcher at the Urban Institute. Some examples of his research include projecting how Medicaid enrollment will evolve after the COVID-19 public health emergency ends; developing machine learning models to predict churn in Medicaid and Marketplace eligibility; and estimating the coverage and cost effects of enhanced Marketplace premium subsidies.
 
