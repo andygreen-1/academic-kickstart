@@ -21,10 +21,10 @@ organizations:
 bio: 
 
 interests:
+- Consumer financial markets
+- Fairness in machine learning
 - Health policy
 - Civic tech
-- Consumer financial markets
-- Natural language processing, machine learning, and other advanced analytic techniques
 
 education:
   courses:
@@ -66,8 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Andy Green is a data scientist, a researcher, and a people manager with a passion for using data to make things better. He has over 9 years of experience in data-driven roles across government, think tanks, academia, and the private sector. He currently works as an Analytics Lead at BlueLabs, where he leads a team focused on delivering impactful digital outreach and a seamless website experience for Medicare beneficiaries.
-
-Prior to joining BlueLabs, Andy was a quantitative health policy researcher at the Urban Institute. Some examples of his research include projecting how Medicaid enrollment will evolve after the COVID-19 public health emergency ends; developing machine learning models to predict churn in Medicaid and Marketplace eligibility; and estimating the coverage and cost effects of enhanced Marketplace premium subsidies.
-
-Andy has a master's degree in Data Science for Public Policy from Georgetown University and a bachelor's degree in Business Administration from the University of Michigan.
+Data scientist, researcher, and people manager with over 10 years of experience in data-driven roles across government, think tanks, academia, and the private sector. I currently work as a data scientist at the Consumer Financial Protection Bureau, where I focus on assessing algorithmic fairness in machine learning models. Prior to joining the CFPB, I was a quantitative health policy researcher at the Urban Institute, where I focused on projecting the coverage and cost effects of health insurance reform policies. I have also held a variety of other data science and analytics-focused roles at organizations including BlueLabs, the Census Bureau, and the Massive Data Institute, and I have over 4 years of experience managing small teams of data analysts (3-4 people). I received a master's degree in Data Science for Public Policy from Georgetown University and a bachelor's degree in Business Administration from the University of Michigan.
