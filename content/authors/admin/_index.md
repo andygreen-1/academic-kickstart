@@ -23,7 +23,7 @@ bio:
 interests:
 - Consumer financial markets
 - Fairness in machine learning
-- Health policy
+- Health insurance policy
 - Civic tech
 
 education:
