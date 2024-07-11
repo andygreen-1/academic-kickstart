@@ -27,6 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-This is a research project that I worked on during my time as a [Civic Digital Fellow](https://www.codingitforward.com/civic-digital-fellowship) at the Census Bureau. The project involved creating a proof-of-concept for an extension of the [County Business Patterns](https://www.census.gov/programs-surveys/cbp.html) data series, by adding revenue as an additional metric to the existing product. Key components of the project included developing outlier detection models, creating imputation algorithms, and analyzing discrepancies between administrative and survey data.
+This is a research project that I worked on during my time as a [Civic Digital Fellow](https://www.codingitforward.com/civic-digital-fellowship) at the Census Bureau. 
+
+The project involved creating a proof-of-concept for an extension of the [County Business Patterns](https://www.census.gov/programs-surveys/cbp.html) data series, by adding revenue as an additional metric to the existing product. Key components of the project included developing outlier detection models, creating imputation algorithms, and analyzing discrepancies between administrative and survey data.
 
 I wrote a short blog post about the project and my overall fellowship experience, which can be found on Coding it Forward's [Medium page](https://blog.codingitforward.com/my-remote-summer-in-civic-tech-ec2f41c21f4a).
