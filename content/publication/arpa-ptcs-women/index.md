@@ -71,6 +71,7 @@ slides: ""
 
 About 850,000 additional adult women of reproductive age (19 to 44) will be uninsured in 2023 if the enhanced premium tax credits (PTCs) passed under the American Rescue Plan Act (ARPA) are allowed to expire. Uninsured women are at higher risk of having an unintended pregnancy due to more limited access to free or low-cost reproductive health services, including the most effective forms of contraception. Further, many of these additional women who will be uninsured live in states that tightly restrict or plan to tightly restrict access to abortion. We estimate that 384,000 of the additional uninsured women of reproductive age live in states that are currently rated as "most restrictive" or "very restrictive" in terms of abortion access.
 
+<br/>
 
 **ARPA-Related Publication Links:**
 
