@@ -67,6 +67,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+**Summary:**
+
 In this brief, we analyze survey and administrative data from a variety of sources to explore trends in health insurance coverage status and type between early 2019 and early 2021. We find the following:
 
 - The uninsurance rate among nonelderly adults (ages 18 to 64) remained flat between early 2019 and early 2021, according to all three surveys we studied (the National Health Interview Survey (NHIS), the Current Population Survey (CPS), and the Health Reform Monitoring Survey (HRMS)).
@@ -74,5 +76,6 @@ In this brief, we analyze survey and administrative data from a variety of sourc
 - Administrative data on Medicaid and ESI enrollment show substantial changes consistent with the estimates reported on the NHIS and the HRMS.
 - Medicaid enrollment data indicate that the Medicaid continuous coverage requirement, which has prohibited states from disenrolling Medicaid beneficiaries during the public health emergency, has been a key driver of enrollment trends. Marketplace enrollment trends also suggest the Marketplace has played a smaller but important role in preventing uninsurance during the pandemic. 
 
+<br/>
 
-The report was published by the Urban Institute in March 2022. The link to that publication can be found [here](https://www.urban.org/research/publication/bolstered-recovery-legislation-health-insurance-safety-net-prevented-rise-uninsurance-between-2019-and-2021).
+**Link:** <https://www.urban.org/research/publication/bolstered-recovery-legislation-health-insurance-safety-net-prevented-rise-uninsurance-between-2019-and-2021>
