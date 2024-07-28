@@ -67,6 +67,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+**Summary:**
+
 This report examines the substantial growth in Medicaid enrollment that has taken place over the course of the COVID-19 pandemic. We show that this growth has been largely driven by the continuous coverage requirement of the Families First Coronavirus Response Act. We project continued enrollment growth through the end of 2021, followed by rapid disenrollment in 2022 after the public health emergency (PHE) declaration expires. Our key findings are as follows:
 
 - We estimate that by the end of 2021, 17 million more nonelderly people will be enrolled in Medicaid than before the pandemic, reaching a total of 76.3 million Medicaid enrollees younger than 65. Our estimate assumes the PHE will expire at the end of 2021.
@@ -76,4 +78,28 @@ This report examines the substantial growth in Medicaid enrollment that has take
 - Many of those losing Medicaid coverage would be eligible for other sources of subsidized coverage. Of the adults who would lose Medicaid, we estimate about a third would be eligible for Marketplace premium tax credits (PTCs) if the enhanced tax credits in the American Rescue Plan Act (ARPA) were made permanent. Of the children losing Medicaid, 57 percent would be eligible for the Children’s Health Insurance Program (CHIP), and an additional 9 percent would be eligible for Marketplace coverage with tax credits. Thus, good coordination between state Marketplaces and Medicaid agencies is essential to reduce unnecessary losses of health coverage. 
 
 
-The [report](https://www.urban.org/research/publication/what-will-happen-unprecedented-high-medicaid-enrollment-after-public-health-emergency) was published by the Urban Institute in September 2021. Following the extension of the PHE, we published a [follow-up report](https://www.urban.org/research/publication/what-will-happen-medicaid-enrollees-health-coverage-after-public-health-emergency) with updated projections in March 2022. In December 2022, we published a [third installment](https://www.urban.org/research/publication/impact-covid-19-public-health-emergency-expiration-all-types-health-coverage). Our findings have been cited by the [New York Times](https://www.nytimes.com/2022/04/04/opinion/covid-medicaid-loss.html), the [Washington Post](https://www.washingtonpost.com/health/2022/03/14/medicaid-loss-of-coverage/), the [LA Times](https://www.latimes.com/science/story/2022-03-14/why-you-may-miss-the-covid-public-health-emergency-when-its-over), [CNN](https://www.cnn.com/2022/04/05/politics/obamacare-subsidies-families/index.html), [NBC News](https://www.nbcnews.com/health/health-care/public-health-emergency-end-cause-millions-lose-medicaid-coverage-rcna7419), [CBS News](https://www.cbsnews.com/news/medicaid-eligibility-millions-may-lose-coverage/), the [Associated Press](https://apnews.com/article/covid-health-business-coronavirus-vaccine-medicaid-fbb66b72937f3517a5d3d1ba8840f339), [USA Today](https://www.usatoday.com/story/news/health/2022/04/01/end-covid-19-emergency-could-jeopardize-medicaid-millions-us/7190506001/?gnt-cfr=1), [POLITICO](https://www.politico.com/news/2022/02/02/medicaid-states-pandemic-loss-00004153), [Bloomberg Businessweek](https://www.bloomberg.com/news/articles/2022-02-17/renewed-medicaid-eligibility-checks-threaten-health-care-for-millions), [NPR](https://www.npr.org/sections/health-shots/2022/02/14/1080295015/why-millions-on-medicaid-are-at-risk-of-losing-coverage-in-the-months-ahead), [HuffPost](https://www.huffpost.com/entry/affordable-care-act-obamacare-subsidies-medicaid-family-glitch_n_623a43cfe4b0c727d4849e3e), [Forbes](https://www.forbes.com/sites/joshuacohen/2022/09/02/if-covid-19-public-health-emergency-ends-millions-of-americans-could-lose-healthcare-coverage/?sh=8c265fe55139), and [Axios](https://www.axios.com/local/salt-lake-city/2022/09/19/low-income-utahns-still-not-getting-medicaid), among many other media outlets. 
+**Links:**
+
+- First report, September 2021 (this one): <https://www.urban.org/research/publication/what-will-happen-unprecedented-high-medicaid-enrollment-after-public-health-emergency>
+- Second report, March 2022: <https://www.urban.org/research/publication/what-will-happen-medicaid-enrollees-health-coverage-after-public-health-emergency>
+- Third report, December 2022: <https://www.urban.org/research/publication/impact-covid-19-public-health-emergency-expiration-all-types-health-coverage> 
+
+
+**Media:**
+
+Our findings have been cited hundreds of times by national and local media outlets including:
+
+- [New York Times](https://www.nytimes.com/2022/04/04/opinion/covid-medicaid-loss.html)
+- [Washington Post](https://www.washingtonpost.com/health/2022/03/14/medicaid-loss-of-coverage/)
+- [LA Times](https://www.latimes.com/science/story/2022-03-14/why-you-may-miss-the-covid-public-health-emergency-when-its-over)
+- [CNN](https://www.cnn.com/2022/04/05/politics/obamacare-subsidies-families/index.html)
+- [NBC News](https://www.nbcnews.com/health/health-care/public-health-emergency-end-cause-millions-lose-medicaid-coverage-rcna7419)
+- [CBS News](https://www.cbsnews.com/news/medicaid-eligibility-millions-may-lose-coverage/)
+- [Associated Press](https://apnews.com/article/covid-health-business-coronavirus-vaccine-medicaid-fbb66b72937f3517a5d3d1ba8840f339)
+- [USA Today](https://www.usatoday.com/story/news/health/2022/04/01/end-covid-19-emergency-could-jeopardize-medicaid-millions-us/7190506001/?gnt-cfr=1)
+- [POLITICO](https://www.politico.com/news/2022/02/02/medicaid-states-pandemic-loss-00004153)
+- [Bloomberg Businessweek](https://www.bloomberg.com/news/articles/2022-02-17/renewed-medicaid-eligibility-checks-threaten-health-care-for-millions)
+- [NPR](https://www.npr.org/sections/health-shots/2022/02/14/1080295015/why-millions-on-medicaid-are-at-risk-of-losing-coverage-in-the-months-ahead)
+- [HuffPost](https://www.huffpost.com/entry/affordable-care-act-obamacare-subsidies-medicaid-family-glitch_n_623a43cfe4b0c727d4849e3e)
+- [Forbes](https://www.forbes.com/sites/joshuacohen/2022/09/02/if-covid-19-public-health-emergency-ends-millions-of-americans-could-lose-healthcare-coverage/?sh=8c265fe55139)
+- [Axios](https://www.axios.com/local/salt-lake-city/2022/09/19/low-income-utahns-still-not-getting-medicaid)
