@@ -67,11 +67,12 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+**Summary:**
+
 The recently passed Inflation Reduction Act extended the enhanced health insurance tax credits first introduced by the American Rescue Plan Act. This legislation could serve as a foundation for additional reforms to further expand coverage and make health care more affordable, especially for those with the greatest needs.
 
 To illuminate who could benefit from additional reform, we analyze the financial impact for U.S. households of a health reform package that would: 1) fill the Medicaid coverage gap in states that have not expanded medicaid eligibility; 2) reduce the employer affordability threshold; 3) add a $10 billion reinsurance fund; 4) increase the federal Medicaid matching rate in expansion states; and 5) reduce cost sharing in marketplace plans. We use the Urban Institute’s Health Insurance Policy Simulation Model to assess changes in household spending on health care in dollars and as a percentage of income.
 
 The reforms reduce health spending for targeted households. Reductions would be greatest for households spending the most on health care, both in dollars and as a share of income. Filling the Medicaid coverage gap would lead to substantial savings for low-income households in states that haven’t expanded Medicaid. Households also see significant savings from enhanced and funded cost-sharing subsidies.
-***
 
-The [brief](https://www.commonwealthfund.org/publications/issue-briefs/2023/jan/policies-expand-insurance-coverage-affect-household-spending) was published by the Commonwealth Fund in January 2023.
+**Link:** <https://www.commonwealthfund.org/publications/issue-briefs/2023/jan/policies-expand-insurance-coverage-affect-household-spending>
