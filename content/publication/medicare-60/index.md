@@ -67,6 +67,10 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+**Summary:**
+
 This report examines the cost and coverage effects of lowering the age of Medicare eligibility from 65 to 60. We show that there would be improvements in health insurance coverage for most people ages 60-64, though these coverage gains would differ by enrollees' income and current coverage. There would be a modest drop in the number of uninsured, and the remaining uninsured would now have access to Part A coverage for hospital expenses. These improvements would come with a fairly large increase in federal spending and some increase in overall spending for health care services. New federal spending on Medicare for adults ages 60-64 would be \$64.7 billion in 2023. The net increase in federal spending would be lower at \$44.6 billion, largely because federal spending on marketplace subsidies for this group would be eliminated.
 
-The [report](https://www.urban.org/research/publication/lowering-age-medicare-eligibility-60) was published by the Urban Institute in June 2022.
+<br/>
+
+**Link:** <https://www.urban.org/research/publication/lowering-age-medicare-eligibility-60)>
