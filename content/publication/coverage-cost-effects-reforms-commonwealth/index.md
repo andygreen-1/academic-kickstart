@@ -67,6 +67,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+**Summary:**
+
 This brief examines the coverage and cost effects of two health insurance reforms being considered by Congress. Some of the highlights of the brief include:
 
 - Making ARPA premium subsidies permanent and filling the Medicaid coverage gap would reduce the number of people without insurance by nearly one-quarter, or 7.0 million people, in 2022.
@@ -74,6 +76,18 @@ This brief examines the coverage and cost effects of two health insurance reform
 - Enrollment in subsidized marketplace plans would nearly double, while premiums would fall by 18 percent on average.
 - Federal spending would increase by an estimated \$442 billion over 10 years and, after accounting for increased revenues because of higher wages and some offsetting savings, this reform would increase the federal deficit by an estimated \$333 billion if no other changes in policy were made.
 
-The brief was published by the Commonwealth Fund in September 2021. The link to that publication can be found [here](https://www.commonwealthfund.org/publications/issue-briefs/2021/sep/coverage-cost-effects-key-health-insurance-reforms-congress).
+<br/>
 
-The brief has received coverage from [CNN](https://www.cnn.com/2021/10/17/politics/medicare-medicaid-obamacare-reconciliation-bill/index.html), the [Associated Press](https://apnews.com/article/climate-business-health-united-states-race-and-ethnicity-70eed41bbfccc54b57d44a97507becd1), and [Health Affairs](https://www.healthaffairs.org/do/10.1377/hblog20210912.160204/full/), among other media outlets. One of the headline findings from the report was also referenced in a [statement by President Biden](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/statement-by-president-biden-on-2-8-million-americans-gaining-health-care-in-the-2021-special-enrollment-period/).
+**Link:** <https://www.commonwealthfund.org/publications/issue-briefs/2021/sep/coverage-cost-effects-key-health-insurance-reforms-congress>
+
+<br/>
+
+**Media:**
+
+Our findings have been cited by national and local media outlets including:
+
+- [CNN](https://www.cnn.com/2021/10/17/politics/medicare-medicaid-obamacare-reconciliation-bill/index.html)
+- [Associated Press](https://apnews.com/article/climate-business-health-united-states-race-and-ethnicity-70eed41bbfccc54b57d44a97507becd1)
+- [Health Affairs](https://www.healthaffairs.org/do/10.1377/hblog20210912.160204/full/)
+
+One of the headline findings from the report was also referenced in a [statement by President Biden](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/statement-by-president-biden-on-2-8-million-americans-gaining-health-care-in-the-2021-special-enrollment-period/).
