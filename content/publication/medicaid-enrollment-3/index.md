@@ -81,11 +81,13 @@ We estimate that if the PHE expires in April 2023, 18.0 million people will lose
 Further extensions of the PHE are possible. If it is extended for an additional 90 days, we estimate
 that the number of people losing Medicaid will rise to nearly 19 million. 
 
+
 **Links:**
 
 - First report, September 2021: <https://www.urban.org/research/publication/what-will-happen-unprecedented-high-medicaid-enrollment-after-public-health-emergency>
 - Second report, March 2022: <https://www.urban.org/research/publication/what-will-happen-medicaid-enrollees-health-coverage-after-public-health-emergency>
 - Third report, December 2022 (this one): <https://www.urban.org/research/publication/impact-covid-19-public-health-emergency-expiration-all-types-health-coverage> 
+
 
 **Media:**
 
@@ -104,4 +106,4 @@ Our findings have been cited hundreds of times by national and local media outle
 - [NPR](https://www.npr.org/sections/health-shots/2022/02/14/1080295015/why-millions-on-medicaid-are-at-risk-of-losing-coverage-in-the-months-ahead)
 - [HuffPost](https://www.huffpost.com/entry/affordable-care-act-obamacare-subsidies-medicaid-family-glitch_n_623a43cfe4b0c727d4849e3e)
 - [Forbes](https://www.forbes.com/sites/joshuacohen/2022/09/02/if-covid-19-public-health-emergency-ends-millions-of-americans-could-lose-healthcare-coverage/?sh=8c265fe55139)
-- [Axios](https://www.axios.com/local/salt-lake-city/2022/09/19/low-income-utahns-still-not-getting-medicaid), among many other media outlets 
+- [Axios](https://www.axios.com/local/salt-lake-city/2022/09/19/low-income-utahns-still-not-getting-medicaid)
