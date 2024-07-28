@@ -67,18 +67,14 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-#### Abstract:
+**Summary:**
 
 About 850,000 additional adult women of reproductive age (19 to 44) will be uninsured in 2023 if the enhanced premium tax credits (PTCs) passed under the American Rescue Plan Act (ARPA) are allowed to expire. Uninsured women are at higher risk of having an unintended pregnancy due to more limited access to free or low-cost reproductive health services, including the most effective forms of contraception. Further, many of these additional women who will be uninsured live in states that tightly restrict or plan to tightly restrict access to abortion. We estimate that 384,000 of the additional uninsured women of reproductive age live in states that are currently rated as "most restrictive" or "very restrictive" in terms of abortion access.
-***
 
-You can find the full fact sheet [here](https://www.urban.org/research/publication/womens-coverage-losses-2023-if-american-rescue-plan-acts-premium-tax-credits).
 
-<br/>
-
-ARPA-Related Publications:
+**ARPA-Related Publication Links:**
 
 - Main Report: [What If the American Rescue Plan Act Premium Tax Credits Expire? Coverage and Cost Projections for 2023](https://www.urban.org/research/publication/what-if-american-rescue-plan-act-premium-tax-credits-expire)
 - Blog Post: [Allowing the American Rescue Plan Premium Tax Credits to Expire Would Reverse Recent Progress in Reducing the Rate of Uninsured Americans](https://www.urban.org/urban-wire/allowing-american-rescue-plan-premium-tax-credits-expire-would-reverse-recent-progress)
-- Women's Coverage Losses: [Women's Coverage Losses in 2023 If the American Rescue Plan Act's Premium Tax Credits Expire](https://www.urban.org/research/publication/womens-coverage-losses-2023-if-american-rescue-plan-acts-premium-tax-credits)
+- Women's Coverage Losses (this one): [Women's Coverage Losses in 2023 If the American Rescue Plan Act's Premium Tax Credits Expire](https://www.urban.org/research/publication/womens-coverage-losses-2023-if-american-rescue-plan-acts-premium-tax-credits)
 - Effects in Massachusetts: [Expanded Coverage and Savings: Effects in Massachusetts of Extending the American Rescue Plan Act's Enhanced Marketplace Subsidies](https://www.urban.org/research/publication/expanded-coverage-and-savings-effects-massachusetts-extending-american-rescue)
