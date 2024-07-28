@@ -71,4 +71,6 @@ slides: ""
 
 This report describes the uninsured population in Massachusetts and the barriers to coverage they face, including affordability, administrative complexity, and barriers related to immigration status and language proficiency. It then proposes a menu of policy options that address the specific circumstances in Massachusetts. The proposed options are meant to inform a statewide conversation about the best approaches to closing the remaining coverage gaps in Massachusetts and removing structural barriers that result in racial and ethnic disparities in health insurance coverage.
 
+<br/>
+
 **Link:** <https://www.bluecrossmafoundation.org/publication/closing-coverage-gaps-reducing-health-insurance-disparities-massachusetts>

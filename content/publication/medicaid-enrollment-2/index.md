@@ -77,6 +77,7 @@ In this report, we update our earlier projections of Medicaid enrollment and cos
 - The unprecedented volume of eligibility determinations that states will have to process raises concerns that eligible people could be unnecessarily disenrolled from Medicaid and become uninsured. Further, some stakeholders worry the rate at which enrollees are inappropriately disenrolled will be higher after the PHE than was typical before the pandemic. If this happens, the number of people losing coverage could be higher than we project.
 - Compared with PHE expiration after the first quarter of 2022, federal government spending on Medicaid in 2022 and 2023 would be \$34.0 billion higher if the PHE were extended for one additional quarter and \$70.5 billion higher if the PHE were extended for two quarters. State government spending in 2022 and 2023 would be \$5.0 billion higher if the PHE were extended for one additional quarter and \$10.9 billion higher if the PHE were extended for two quarters.
 
+<br/>
 
 **Links:**
 
@@ -84,6 +85,7 @@ In this report, we update our earlier projections of Medicaid enrollment and cos
 - Second report, March 2022 (this one): <https://www.urban.org/research/publication/what-will-happen-medicaid-enrollees-health-coverage-after-public-health-emergency>
 - Third report, December 2022: <https://www.urban.org/research/publication/impact-covid-19-public-health-emergency-expiration-all-types-health-coverage> 
 
+<br/>
 
 **Media:**
 

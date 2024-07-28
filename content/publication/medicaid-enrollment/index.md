@@ -77,6 +77,7 @@ This report examines the substantial growth in Medicaid enrollment that has take
 - We estimate that the number of Medicaid enrollees could decline by about 15 million people during 2022. This includes 8.7 million adults and 5.9 million children. We estimate that one third of adults losing Medicaid coverage after the PHE could qualify for subsidized private health coverage in the Marketplaces. Nearly all of the remainder would likely have access to an offer of employer coverage in their family deemed affordable under the Affordable Care Act.
 - Many of those losing Medicaid coverage would be eligible for other sources of subsidized coverage. Of the adults who would lose Medicaid, we estimate about a third would be eligible for Marketplace premium tax credits (PTCs) if the enhanced tax credits in the American Rescue Plan Act (ARPA) were made permanent. Of the children losing Medicaid, 57 percent would be eligible for the Children’s Health Insurance Program (CHIP), and an additional 9 percent would be eligible for Marketplace coverage with tax credits. Thus, good coordination between state Marketplaces and Medicaid agencies is essential to reduce unnecessary losses of health coverage. 
 
+<br/>
 
 **Links:**
 
@@ -84,6 +85,7 @@ This report examines the substantial growth in Medicaid enrollment that has take
 - Second report, March 2022: <https://www.urban.org/research/publication/what-will-happen-medicaid-enrollees-health-coverage-after-public-health-emergency>
 - Third report, December 2022: <https://www.urban.org/research/publication/impact-covid-19-public-health-emergency-expiration-all-types-health-coverage> 
 
+<br/>
 
 **Media:**
 

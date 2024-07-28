@@ -75,4 +75,6 @@ To illuminate who could benefit from additional reform, we analyze the financial
 
 The reforms reduce health spending for targeted households. Reductions would be greatest for households spending the most on health care, both in dollars and as a share of income. Filling the Medicaid coverage gap would lead to substantial savings for low-income households in states that haven’t expanded Medicaid. Households also see significant savings from enhanced and funded cost-sharing subsidies.
 
+<br/>
+
 **Link:** <https://www.commonwealthfund.org/publications/issue-briefs/2023/jan/policies-expand-insurance-coverage-affect-household-spending>

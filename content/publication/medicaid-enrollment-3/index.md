@@ -81,6 +81,7 @@ We estimate that if the PHE expires in April 2023, 18.0 million people will lose
 Further extensions of the PHE are possible. If it is extended for an additional 90 days, we estimate
 that the number of people losing Medicaid will rise to nearly 19 million. 
 
+<br/>
 
 **Links:**
 
@@ -88,6 +89,7 @@ that the number of people losing Medicaid will rise to nearly 19 million.
 - Second report, March 2022: <https://www.urban.org/research/publication/what-will-happen-medicaid-enrollees-health-coverage-after-public-health-emergency>
 - Third report, December 2022 (this one): <https://www.urban.org/research/publication/impact-covid-19-public-health-emergency-expiration-all-types-health-coverage> 
 
+<br/>
 
 **Media:**
 
