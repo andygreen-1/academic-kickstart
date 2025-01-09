@@ -66,8 +66,8 @@ user_groups:
 - Visitors
 ---
 
-Mission-driven data scientist with a passion for using data to improve how government designs policies, delivers services, and protects consumers. I have over 10 years of experience in data-driven roles across government, think tanks, academia, and the private sector, including over 4 years of experience managing small teams (3-4 people). 
+Mission-driven data scientist with a passion for using data to improve how government designs policies, delivers services, and protects consumers. I have over a decade of experience across government, think tanks, academia, and the private sector, including over four years of experience managing small teams. 
 
-I currently work as a data scientist at the Consumer Financial Protection Bureau, where I focus on assessing algorithmic fairness in machine learning models. Prior to joining the CFPB, I was a quantitative researcher at the Urban Institute, where I focused on projecting the coverage and cost effects of health insurance reform policies. I have also held a variety of other data science and analytics-focused roles at organizations including BlueLabs, the Census Bureau, and the Massive Data Institute.
+I currently work as a data scientist at the Consumer Financial Protection Bureau, where I focus on assessing algorithmic fairness in machine learning models. Prior to joining the CFPB, I was a quantitative researcher at the Urban Institute, where I focused on projecting the coverage and cost effects of health insurance reform policies. I have also held a variety of other data science and analytics roles at organizations including BlueLabs, the Census Bureau, and the Massive Data Institute.
 
 I have a master's degree in Data Science for Public Policy from Georgetown University and a bachelor's degree in Business Administration from the University of Michigan.
