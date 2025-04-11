@@ -30,6 +30,10 @@ projects: []
 The Biden Administration Policy Tracking Project is a nonpartisan effort to record, summarize, and visualize policy actions taken by the Biden administration. Policy actions include, but are not limited to: making a statement in support of a given policy, taking administrative action, issuing executive orders, and acting upon legislation.
 
 In addition to viewing the visualizations below, you can find a landing page for the project [here](https://andygreen-1.github.io/Biden_Administration_Policy_Actions/). The landing page contains the same three visualizations, as well as a discussion of the data collection process and some use cases for the dataset.
+
+You can find the full list of policy actions [here](https://docs.google.com/spreadsheets/d/1-fpsf5ETwbPBGUgl85pAY2X2dz3MtTj4dpuXNO_qq4k/edit?usp=sharing).
+
+*Note: the visualizations below cover policy actions during the first two years of the Biden administration, 2021 and 2022, while the tracker linked above contains policy actions throughout all four years of the administration.*
 ***
 <br/>
 
