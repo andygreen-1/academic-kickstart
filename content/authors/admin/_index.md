@@ -21,8 +21,8 @@ organizations:
 bio: 
 
 interests:
-- Consumer financial markets
 - Fairness in machine learning
+- Consumer financial markets
 - Health insurance policy
 - Civic tech
 
@@ -66,8 +66,9 @@ user_groups:
 - Visitors
 ---
 
-Mission-driven data scientist with a passion for using data to improve how government designs policies, delivers services, and protects consumers. I have over a decade of experience across government, think tanks, academia, and the private sector, including over four years of experience managing small teams. 
+Mission-driven data scientist with a passion for using data to improve how government designs policies, delivers services, and protects consumers. I have over a decade of experience across government, think tanks, academia, and the private sector, including over four years of experience leading teams. Some of my work experiences include:
 
-I currently work as a data scientist at the Consumer Financial Protection Bureau, where I focus on assessing algorithmic fairness in credit scoring models and developing less discriminatory alternative models. Prior to joining the CFPB, I was a quantitative researcher at the Urban Institute, where I focused on projecting the coverage and cost effects of health insurance reform policies. I have also held a variety of other data science and analytics roles at organizations including BlueLabs, the Census Bureau, and the Massive Data Institute.
-
-I have a master's degree in Data Science for Public Policy from Georgetown University and a bachelor's degree in Business Administration from the University of Michigan.
+- Assessing algorithmic fairness and developing less discriminatory credit scoring models at the CFPB
+- Projecting the coverage and cost effects of health insurance reform policies at the Urban Institute
+- Leading teams of data scientists and analysts delivering effective outreach for large federal health programs at Inroads (formerly BlueLabs)
+- Collecting, processing, and analyzing text data to develop measures of political ideology at the Massive Data Institute
