@@ -70,5 +70,5 @@ Mission-driven data scientist with a passion for using data to improve how gover
 
 - Assessing algorithmic fairness and developing less discriminatory credit scoring models at the CFPB
 - Projecting the coverage and cost effects of health insurance reform policies at the Urban Institute
-- Leading teams of data scientists and analysts delivering effective outreach and seamless experiences for federal health programs at Inroads (formerly BlueLabs)
+- Leading teams of data scientists and analysts delivering effective outreach and seamless experiences for federal health programs at Inroads/BlueLabs
 - Collecting, processing, and analyzing text data to develop measures of political ideology at the Massive Data Institute
