@@ -65,10 +65,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Mission-driven data scientist with a passion for using data to solve complex problems and answer interesting questions. I have over a decade of experience across government, think tanks, academia, and the private sector, including over four years of experience leading teams. Some of my work experiences include:
+Mission-driven data scientist with over a decade of experience across government, think tanks, academia, and the private sector. Some of my work experiences include:
 
 - Assessing algorithmic fairness and developing less discriminatory credit scoring models at the CFPB
+- Conducting fairness testing and full-scope model validations for ML models at Upstart
 - Evaluating the coverage and cost effects of health insurance reform policies at the Urban Institute
-- Improving service delivery and outreach for federal government programs at BlueLabs/Inroads
-- Collecting, processing, and analyzing text data to develop measures of political ideology at the Massive Data Institute
+- Improving service delivery and outreach for federal government programs at Inroads/BlueLabs
